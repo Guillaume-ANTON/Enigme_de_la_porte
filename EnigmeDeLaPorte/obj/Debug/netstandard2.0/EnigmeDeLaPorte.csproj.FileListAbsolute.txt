@@ -1,0 +1,27 @@
+D:\arnau\Documents\Cours\Ingésup\NET\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.csprojResolveAssemblyReference.cache
+D:\arnau\Documents\Cours\Ingésup\NET\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.csproj.CoreCompileInputs.cache
+D:\arnau\Documents\Cours\Ingésup\NET\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.AssemblyInfoInputs.cache
+D:\arnau\Documents\Cours\Ingésup\NET\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.AssemblyInfo.cs
+D:\arnau\Documents\Cours\Ingésup\NET\EnigmeDeLaPorte\EnigmeDeLaPorte\bin\Debug\netstandard2.0\EnigmeDeLaPorte.deps.json
+D:\arnau\Documents\Cours\Ingésup\NET\EnigmeDeLaPorte\EnigmeDeLaPorte\bin\Debug\netstandard2.0\EnigmeDeLaPorte.dll
+D:\arnau\Documents\Cours\Ingésup\NET\EnigmeDeLaPorte\EnigmeDeLaPorte\bin\Debug\netstandard2.0\EnigmeDeLaPorte.pdb
+D:\arnau\Documents\Cours\Ingésup\NET\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.dll
+D:\arnau\Documents\Cours\Ingésup\NET\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.pdb
+C:\Users\guigu\Desktop\EnigmeDeLaPorte\EnigmeDeLaPorte\bin\Debug\netstandard2.0\EnigmeDeLaPorte.deps.json
+C:\Users\guigu\Desktop\EnigmeDeLaPorte\EnigmeDeLaPorte\bin\Debug\netstandard2.0\EnigmeDeLaPorte.dll
+C:\Users\guigu\Desktop\EnigmeDeLaPorte\EnigmeDeLaPorte\bin\Debug\netstandard2.0\EnigmeDeLaPorte.pdb
+C:\Users\guigu\Desktop\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.csprojResolveAssemblyReference.cache
+C:\Users\guigu\Desktop\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.csproj.CoreCompileInputs.cache
+C:\Users\guigu\Desktop\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.AssemblyInfoInputs.cache
+C:\Users\guigu\Desktop\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.AssemblyInfo.cs
+C:\Users\guigu\Desktop\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.dll
+C:\Users\guigu\Desktop\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.pdb
+C:\Users\guigu\Desktop\Cours_Ingésup\Cours 1er\Dot Net\EnigmeDeLaPorte\EnigmeDeLaPorte\bin\Debug\netstandard2.0\EnigmeDeLaPorte.deps.json
+C:\Users\guigu\Desktop\Cours_Ingésup\Cours 1er\Dot Net\EnigmeDeLaPorte\EnigmeDeLaPorte\bin\Debug\netstandard2.0\EnigmeDeLaPorte.dll
+C:\Users\guigu\Desktop\Cours_Ingésup\Cours 1er\Dot Net\EnigmeDeLaPorte\EnigmeDeLaPorte\bin\Debug\netstandard2.0\EnigmeDeLaPorte.pdb
+C:\Users\guigu\Desktop\Cours_Ingésup\Cours 1er\Dot Net\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.csprojResolveAssemblyReference.cache
+C:\Users\guigu\Desktop\Cours_Ingésup\Cours 1er\Dot Net\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.csproj.CoreCompileInputs.cache
+C:\Users\guigu\Desktop\Cours_Ingésup\Cours 1er\Dot Net\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.AssemblyInfoInputs.cache
+C:\Users\guigu\Desktop\Cours_Ingésup\Cours 1er\Dot Net\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.AssemblyInfo.cs
+C:\Users\guigu\Desktop\Cours_Ingésup\Cours 1er\Dot Net\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.dll
+C:\Users\guigu\Desktop\Cours_Ingésup\Cours 1er\Dot Net\EnigmeDeLaPorte\EnigmeDeLaPorte\obj\Debug\netstandard2.0\EnigmeDeLaPorte.pdb
